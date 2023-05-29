@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Filtros",
+      "price": "101",
+      "id": 28
+    },
+    {
+      "name": "Water",
+      "price": "25",
+      "id": 29
+    },
+    {
+      "name": "Hat",
+      "price": "80",
+      "id": 30
+    },
+    {
+      "name": "Airpods",
+      "price": "500",
+      "id": 31
+    }
+  ]
+}
